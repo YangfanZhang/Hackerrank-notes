@@ -1,3 +1,15 @@
+why use complex data structures ? just continue with the given snap of code using arrays...
+1. Sort to accelerate search
+Arrays.sort(magazine); Arrays.sort(ransom);
+
+2.Extract to a list to benefit from the remove method
+List magazine_words = new ArrayList(Arrays.asList(magazine));
+
+3.Search and remove
+for (String ransom_w : ransom) { if (!magazine_words.remove(ransom_w)) { System.out.println("No"); return ; } } System.out.println("Yes");
+
+
+===================================================================
 static void checkMagazine(string[] magazine, string[] note)
     {
         int magazineLength = magazine.Length;
