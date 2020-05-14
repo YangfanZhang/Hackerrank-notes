@@ -16,3 +16,48 @@ static void checkMagazine(string[] magazine, string[] note)
         else
         {Console.WriteLine("No");}
     }
+
+
+My solution, passed only 3 tests.
+================================================================
+using System;
+using System.Collections;
+
+class Solution {
+
+    // Complete the checkMagazine function below.
+    static bool checkMagazine(string[] magazine, string[] note) {
+        Hashtable magazineHashTable = new Hashtable();
+        for(int i=0; i< magazine.Length; i++ ){
+            magazineHashTable.Add(magazine[i], i);
+        }
+        bool result = true;
+        for(int j=0; j< note.Length; j++ ){
+            if(magazineHashTable.ContainsKey(note[j]))
+            {
+                magazineHashTable.Remove(note[j]);
+            }
+            else
+            {
+                result = false;
+                break;
+            }
+        }
+        return result;
+    }
+
+    static void Main(string[] args) {
+        var mn = Console.ReadLine();
+        string[] magazine = Console.ReadLine().Split(' ');
+        string[] notes = Console.ReadLine().Split(' ');
+        bool result = checkMagazine(magazine, notes);
+        if(result)
+        {
+          Console.WriteLine("Yes");
+        } 
+        else
+        {
+          Console.WriteLine("No") ;
+        } 
+    }
+}
