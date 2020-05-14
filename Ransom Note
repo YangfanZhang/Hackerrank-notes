@@ -1,17 +1,17 @@
 static void checkMagazine(string[] magazine, string[] note)
     {
-        int mg = magazine.Length;
-        int nt = note.Length;
+        int magazineLength = magazine.Length;
+        int noteLength = note.Length;
         Array.Sort(magazine);
         Array.Sort(note);
-        int ctr = 0;
+        int counter = 0;
         int match = 0;
-        while (ctr < mg && match < nt)
+        while (counter < magazineLength && match < noteLength)
         {
-            if(note[match] == magazine[ctr]){match++;}
-            ctr++;
+            if(note[match] == magazine[counter]){match++;}
+            counter++;
         }
-        if(match == nt)
+        if(match == noteLength)
         {Console.WriteLine("Yes");}
         else
         {Console.WriteLine("No");}
