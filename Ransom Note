@@ -8,6 +8,18 @@ List magazine_words = new ArrayList(Arrays.asList(magazine));
 3.Search and remove
 for (String ransom_w : ransom) { if (!magazine_words.remove(ransom_w)) { System.out.println("No"); return ; } } System.out.println("Yes");
 
+static bool checkwords(string[] mags, string[] rans) {
+
+Array.Sort(mags);
+Array.Sort(rans);
+
+List<string> magList = mags.ToList();
+
+foreach (string ransom_w in rans) {
+    if (!magList.Remove(ransom_w)) return false;
+}
+return true;
+}
 
 ===================================================================
 static void checkMagazine(string[] magazine, string[] note)
