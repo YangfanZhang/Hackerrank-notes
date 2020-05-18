@@ -1,0 +1,11 @@
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/bin/Debug/netcoreapp2.1/Hackerrank.deps.json
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/bin/Debug/netcoreapp2.1/Hackerrank.runtimeconfig.json
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/bin/Debug/netcoreapp2.1/Hackerrank.runtimeconfig.dev.json
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/bin/Debug/netcoreapp2.1/Hackerrank.dll
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/bin/Debug/netcoreapp2.1/Hackerrank.pdb
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.csprojAssemblyReference.cache
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.csproj.CoreCompileInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.AssemblyInfoInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.AssemblyInfo.cs
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.dll
+/Users/yangfanchang/Projects/Hackerrank/Hackerrank/obj/Debug/netcoreapp2.1/Hackerrank.pdb

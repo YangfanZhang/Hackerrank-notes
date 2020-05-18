@@ -1,0 +1,10 @@
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/bin/Debug/netcoreapp2.1/LuckBalance.deps.json
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/bin/Debug/netcoreapp2.1/LuckBalance.runtimeconfig.json
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/bin/Debug/netcoreapp2.1/LuckBalance.runtimeconfig.dev.json
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/bin/Debug/netcoreapp2.1/LuckBalance.dll
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/bin/Debug/netcoreapp2.1/LuckBalance.pdb
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/obj/Debug/netcoreapp2.1/LuckBalance.csproj.CoreCompileInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/obj/Debug/netcoreapp2.1/LuckBalance.AssemblyInfoInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/obj/Debug/netcoreapp2.1/LuckBalance.AssemblyInfo.cs
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/obj/Debug/netcoreapp2.1/LuckBalance.dll
+/Users/yangfanchang/Projects/Hackerrank/LuckBalance/obj/Debug/netcoreapp2.1/LuckBalance.pdb

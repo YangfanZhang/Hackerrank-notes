@@ -1,0 +1,11 @@
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/bin/Debug/netcoreapp2.1/MarkToys.deps.json
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/bin/Debug/netcoreapp2.1/MarkToys.runtimeconfig.json
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/bin/Debug/netcoreapp2.1/MarkToys.runtimeconfig.dev.json
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/bin/Debug/netcoreapp2.1/MarkToys.dll
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/bin/Debug/netcoreapp2.1/MarkToys.pdb
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.csproj.CoreCompileInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.AssemblyInfoInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.AssemblyInfo.cs
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.dll
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.pdb
+/Users/yangfanchang/Projects/Hackerrank/MarkToys/obj/Debug/netcoreapp2.1/MarkToys.csprojAssemblyReference.cache

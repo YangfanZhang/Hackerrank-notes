@@ -1,0 +1,11 @@
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/bin/Debug/netcoreapp2.1/AlternatingCharacters.deps.json
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/bin/Debug/netcoreapp2.1/AlternatingCharacters.runtimeconfig.json
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/bin/Debug/netcoreapp2.1/AlternatingCharacters.runtimeconfig.dev.json
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/bin/Debug/netcoreapp2.1/AlternatingCharacters.dll
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/bin/Debug/netcoreapp2.1/AlternatingCharacters.pdb
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.csprojAssemblyReference.cache
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.csproj.CoreCompileInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.AssemblyInfoInputs.cache
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.AssemblyInfo.cs
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.dll
+/Users/yangfanchang/Projects/Hackerrank/AlternatingCharacters/obj/Debug/netcoreapp2.1/AlternatingCharacters.pdb
